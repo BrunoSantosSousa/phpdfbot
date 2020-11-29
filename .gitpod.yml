@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.dockerfile
+tasks:
+  - init: npm install
+    command: npm run dev
+vscode:
+  extensions:
+    - amiralizadeh9480.laravel-extra-intellisense@0.4.0:YC4FZ2W05/Z1HhkRJvse3g==
